@@ -162,7 +162,7 @@ const App: React.FC = () => {
         )}
       </main>
       <footer className="w-full max-w-7xl mx-auto text-center py-6 mt-8 border-t border-gray-800">
-        <p className="text-gray-500 text-sm">Powered by Google Gemini</p>
+        <p className="text-gray-500 text-sm">Powered by Quốc Tài</p>
       </footer>
     </div>
   );
